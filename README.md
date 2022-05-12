@@ -1,2 +1,3 @@
-# rs-research-group
-This is file center of rs-research-group
+# RS-Research-Group
+
+This is a readme file.
